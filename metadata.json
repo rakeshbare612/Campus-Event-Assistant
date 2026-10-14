@@ -1,0 +1,8 @@
+{
+  "name": "Campus Event Assistant",
+  "description": "Your AI-powered guide to everything happening on campus. Discover events, register, plan schedules, and ask questions through an intelligent AI assistant for the CIE-3 AI Agent Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
